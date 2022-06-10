@@ -6,3 +6,5 @@ draft: true
 
 
 Hello, I am testing Hugo site generator
+
+Just a silly test site.
