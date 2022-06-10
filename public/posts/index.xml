@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Martin&#39;s New Hugo Site</title>
+    <link>https://shadygrove.github.io/hugo-quickstart/posts/</link>
+    <description>Recent content in Posts on Martin&#39;s New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 10 Jun 2022 14:30:09 -0400</lastBuildDate><atom:link href="https://shadygrove.github.io/hugo-quickstart/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>https://shadygrove.github.io/hugo-quickstart/posts/my-first-post/</link>
+      <pubDate>Fri, 10 Jun 2022 14:30:09 -0400</pubDate>
+      
+      <guid>https://shadygrove.github.io/hugo-quickstart/posts/my-first-post/</guid>
+      <description>Hello, I am testing Hugo site generator
+Just a silly test site.</description>
+    </item>
+    
+  </channel>
+</rss>
